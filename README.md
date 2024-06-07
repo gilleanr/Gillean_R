@@ -34,6 +34,6 @@ Here are some of the projects I've worked on:
 
 # <img src="https://media.giphy.com/media/lRq8bJcwkpkpDs823O/giphy.gif?cid=ecf05e47rdv7rtcdl1i0mcmcfesuhdw8580ylvyw95hck1qa&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50" alt="Icon"/> Experience
 
-I have experience working in fast-paced environments, collaborating with cross-functional teams, and leading projects to successful completion.
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
