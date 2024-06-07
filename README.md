@@ -13,10 +13,10 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/XHU5DOhi30862u7srB/giphy.gif?cid=ecf05e475hzg90dxhqh74als5hf0nc5x7kuf61z6tx208598&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50" alt="Icon" style="vertical-align: middle;"/>
-   <h1 style="font-size: 24px; font-weight: bold; vertical-align: middle;">About Me</h1>
-  <img src="https://media.giphy.com/media/XHU5DOhi30862u7srB/giphy.gif?cid=ecf05e475hzg90dxhqh74als5hf0nc5x7kuf61z6tx208598&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50" alt="Icon" style="vertical-align: middle;"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://media.giphy.com/media/XHU5DOhi30862u7srB/giphy.gif?cid=ecf05e475hzg90dxhqh74als5hf0nc5x7kuf61z6tx208598&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50" alt="Icon"/>
+  <h1 style="margin: 0 10px; font-size: 24px; font-weight: bold;">About Me</h1>
+  <img src="https://media.giphy.com/media/XHU5DOhi30862u7srB/giphy.gif?cid=ecf05e475hzg90dxhqh74als5hf0nc5x7kuf61z6tx208598&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50" alt="Icon"/>
 </div>
 
 
