@@ -30,7 +30,7 @@ Hello, I'm Gillean Rojas, a passionate and dynamic professional in the field of 
 # <img src="https://media.giphy.com/media/ie6r1Ee6yeJQhrABy3/giphy.gif?cid=ecf05e47hwhn0m2nud4wio8j7mcpetdcm1132olhss0kka12&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50" alt="Icon"/> Projects
 
 Here are some of the projects I've worked on:
-- 
+- ![Caso Práctico Tasty S.A.](https://github.com/gilleanr/Proyectos-Magister-Business-Analytics/blob/main/Caso%20Pra%CC%81ctico%20Tasty%20S.A..pdf)
 
 # <img src="https://media.giphy.com/media/lRq8bJcwkpkpDs823O/giphy.gif?cid=ecf05e47rdv7rtcdl1i0mcmcfesuhdw8580ylvyw95hck1qa&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50" alt="Icon"/> Experience
 
